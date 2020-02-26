@@ -1,3 +1,3 @@
 # FirstAr
 Class Exercise
-https://swil992.github.io/FirstAr/.
+https://swil992.github.io/FirstAr/nikkitree
